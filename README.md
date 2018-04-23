@@ -9,3 +9,5 @@ Léo Abalan
 Awa Bousso
 
 Datasheet raspberry
+
+Raspberry Pi 2 caméra
