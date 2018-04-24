@@ -41,5 +41,5 @@ Awa Bousso          OpenCV
 | cartes EAGLE          |        Support camera  |      Support camera  |  
 | alimentation externe  |        panneau stop    |      panneau stop    |  
 | feux bicolore         |        boitier feux    |      boitier feux    |  
-| Comunication I²C      |  
-| python et OpenCV      |  
+| Comunication I²C      |                        |                      |  
+| python et OpenCV      |                        |                      |  
