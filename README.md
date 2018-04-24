@@ -36,4 +36,5 @@ suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 | :------------- |:-------------| :-----| :-----|
 | Installation logiciels sous Raspbian | Installation logiciels sous Raspbian | Installation logiciels sous Raspbian |  | 
 | Visualisation videos | Visualisation videos | Visualisation videos     | Visualisation videos |
+| tests finaux de la ligne | tests finaux de la ligne | tests finaux de la ligne     | tests finaux de la ligne |
 
