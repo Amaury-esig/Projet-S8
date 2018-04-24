@@ -24,8 +24,8 @@ suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 | code bas niveau      | Support camera | Support camera |     |
 | cartes EAGLE      | panneau stop      |   panneau stop |     |
 | alimentation externe | boitier feux      |    boitier feux |     |
-| Comunication I²C      |       |    |     |
-| python et OpenCV      |    python et OpenCV   |  python et OpenCV  |     |
+| python et OpenCV      |   python et OpenCV    |  python et OpenCV  |     |
+| Comunication I²C       |       |    |     |
   
   
   
