@@ -10,8 +10,8 @@ suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 
 
 >Fonction implémenter et fonctionnel :  
-Suivi de ligne                                     
-Détection panneau stop
+  *Suivi de ligne                                     
+  *Détection panneau stop
 
 
 
@@ -26,6 +26,9 @@ Détection panneau stop
 | alimentation externe | boitier feux      |    boitier feux |     |
 | Comunication I²C      |       |    |     |
 | python et OpenCV      |       |    |     |
+
+
+
 
 
 >Vidéo en streaming
