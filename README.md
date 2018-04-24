@@ -26,3 +26,12 @@ suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 | alimentation externe | boitier feux      |    boitier feux |
 | Comunication I²C      |       |    |
 | python et OpenCV      |       |    |
+
+
+>>Vidéo en streaming
+
+|Léo Abalan           |   Awa Bousso   |    |Amaury Reille| Stéphane Séne
+|-----------------|:-----------------:|--------------:|---------------|
+|Installation logiciels sous Raspbian|Installation logiciels sous Raspbian|Installation logiciels sous Raspbian|         |
+|Visualisation videos|Visualisation videos|Visualisation videos     |Visualisation videos|
+|Codage sous Python|    Codage sous Python|    Codage sous Python   |Codage sous Python|
