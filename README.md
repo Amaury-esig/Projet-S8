@@ -14,33 +14,7 @@ Fonction implémenter et fonctionnel : Suivi de ligne
 
 
 
-Amaury Reille       code bas niveau (arduino)  
-                    cartes EAGLE  
-                    alimentation externe  
-                    feux bicolore  
-                    Comunication I²C  
-                    python et OpenCV  
-                    
-
-Léo Abalan          OpenCV  
-                    Support camera  
-                    panneau stop  
-                    boitier feux  
-                    
-Awa Bousso          OpenCV  
-                    Support camera  
-                    panneau stop  
-                    boitier feux  
-
-
-
-
-| code bas niveau | OpenCV | OpenCV |  
-| cartes EAGLE | Support camera  | Support camera |  
-| alimentation externe | panneau stop | panneau stop |  
-| feux bicolore | boitier feux | boitier feux |  
-| Comunication I²C | | |  
-| python et OpenCV | | |  
+ 
 
 
 
