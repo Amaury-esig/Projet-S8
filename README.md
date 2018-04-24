@@ -33,7 +33,7 @@ suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 >Vidéo en streaming
 
 |  Amaury Reille        | Léo Abalan           | Awa Bousso  | Stéphane Séne  |
-| ------------- |:-------------| :-----| :-----|
+| :------------- |:-------------| :-----| :-----|
 | Installation logiciels sous Raspbian | Installation logiciels sous Raspbian | Installation logiciels sous Raspbian |  | 
 | Visualisation videos | Visualisation videos | Visualisation videos     | Visualisation videos |
 
