@@ -1,13 +1,35 @@
 # Projet-S8 Voiture Autonome
 
-ESIGELEC 2018
+# ESIGELEC 2018
 
-Amaury Reille
 
-Léo Abalan
+# voiture autonome suiveuse de ligne
+suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 
-Awa Bousso
 
-Datasheet raspberry
 
-Raspberry Pi 2 caméra
+Fonction implémenter et fonctionnel : Suivi de ligne
+                                      Détection panneau stop
+
+
+
+
+Amaury Reille    => code bas niveau (arduino)
+                    cartes EAGLE
+                    alimentation externe
+                    feux bicolore
+                    Comunication I²C
+                    python et OpenCV
+                    
+
+Léo Abalan       => OpenCV
+                    Support camera
+                    panneau stop
+                    boitier feux
+
+Awa Bousso       => OpenCV
+                    Support camera
+                    panneau stop
+                    boitier feux
+
+
