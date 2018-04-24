@@ -10,7 +10,7 @@ suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 
 
 >**Fonction implémenter et fonctionnel :**  
-  -Suivi de ligne                                     
+  -Suivi de ligne *(quelques problèmes en fonction de la luminosité et de la charge de la batterie)*                              
   -Détection panneau stop
 
 >**Fonction en cour d'implémentation :**  
