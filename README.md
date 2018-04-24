@@ -25,7 +25,7 @@ suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 | cartes EAGLE      | panneau stop      |   panneau stop |     |
 | alimentation externe | boitier feux      |    boitier feux |     |
 | Comunication I²C      |       |    |     |
-| python et OpenCV      |       |    |     |
+| python et OpenCV      |    python et OpenCV   |  python et OpenCV  |     |
   
   
   
@@ -36,4 +36,4 @@ suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 | ------------- |:-------------| :-----| :-----|
 | Installation logiciels sous Raspbian | Installation logiciels sous Raspbian | Installation logiciels sous Raspbian |  | 
 | Visualisation videos | Visualisation videos | Visualisation videos     | Visualisation videos |
-| Codage sous Python |    Codage sous Python |    Codage sous Python   |  |
+
