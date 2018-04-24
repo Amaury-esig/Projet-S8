@@ -19,7 +19,7 @@ suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 
 
 
-|  Amaury Reille        | Léo Abalan           | Awa Bousso  | Awa Bousso  |
+|  Amaury Reille        | Léo Abalan           | Awa Bousso  | Stéphane Séne  |
 | ------------- |:-------------:| :-----:| -----:|
 | code bas niveau      | Support camera | Support camera |     |
 | cartes EAGLE      | panneau stop      |   panneau stop |     |
@@ -30,8 +30,8 @@ suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 
 >>Vidéo en streaming
 
-|Léo Abalan           |   Awa Bousso   |    |Amaury Reille| Stéphane Séne
-|-----------------|:-----------------:|--------------:|---------------|
-|Installation logiciels sous Raspbian|Installation logiciels sous Raspbian|Installation logiciels sous Raspbian|         |
-|Visualisation videos|Visualisation videos|Visualisation videos     |Visualisation videos|
-|Codage sous Python|    Codage sous Python|    Codage sous Python   |Codage sous Python|
+|  Amaury Reille        | Léo Abalan           | Awa Bousso  | Stéphane Séne  |
+| ------------- |:-------------:| :-----:| -----:|
+| Installation logiciels sous Raspbian | Installation logiciels sous Raspbian | Installation logiciels sous Raspbian |  | 
+| Visualisation videos | Visualisation videos | Visualisation videos     | Visualisation videos |
+| Codage sous Python |    Codage sous Python |    Codage sous Python   | Codage sous Python |
