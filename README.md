@@ -14,9 +14,8 @@ Fonction implémenter et fonctionnel : Suivi de ligne
 
 
 
-
->Amaury Reille       code bas niveau (arduino)  
->\                    cartes EAGLE  
+Amaury Reille       code bas niveau (arduino)  
+                    cartes EAGLE  
                     alimentation externe  
                     feux bicolore  
                     Comunication I²C  
@@ -35,11 +34,11 @@ Awa Bousso          OpenCV
 
 
 
-| Amaury Reille           |     Léo Abalan         |   Awa Bousso         |  
+| Amaury Reille | Léo Abalan | Awa Bousso |  
 | ------------------ |: ---------------: | --------------: |  
-| code bas niveau       |        OpenCV          |      OpenCV          |  
-| cartes EAGLE          |        Support camera  |      Support camera  |  
-| alimentation externe  |        panneau stop    |      panneau stop    |  
-| feux bicolore         |        boitier feux    |      boitier feux    |  
-| Comunication I²C      |                        |                      |  
-| python et OpenCV      |                        |                      |  
+| code bas niveau | OpenCV | OpenCV |  
+| cartes EAGLE | Support camera  | Support camera |  
+| alimentation externe | panneau stop | panneau stop |  
+| feux bicolore | boitier feux | boitier feux |  
+| Comunication I²C | | |  
+| python et OpenCV | | |  
