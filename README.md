@@ -34,8 +34,7 @@ Awa Bousso          OpenCV
 
 
 
-| Amaury Reille | Léo Abalan | Awa Bousso |  
-| ------------------ |: ---------------: | --------------: |  
+
 | code bas niveau | OpenCV | OpenCV |  
 | cartes EAGLE | Support camera  | Support camera |  
 | alimentation externe | panneau stop | panneau stop |  
@@ -47,6 +46,6 @@ Awa Bousso          OpenCV
 
 |  Amaury Reille        | Léo Abalan           | Awa Bousso  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| code bas niveau      | right-aligned | $1600 |
+| cartes EAGLE      | centered      |   $12 |
+| limentation externe | are neat      |    $1 |
