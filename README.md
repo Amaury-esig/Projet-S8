@@ -10,8 +10,8 @@ suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 
 
 >Fonction implémenter et fonctionnel : 
->>Suivi de ligne                                     
->>Détection panneau stop
+Suivi de ligne                                     
+Détection panneau stop
 
 
 
@@ -28,10 +28,10 @@ suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 | python et OpenCV      |       |    |     |
 
 
->>Vidéo en streaming
+>Vidéo en streaming
 
 |  Amaury Reille        | Léo Abalan           | Awa Bousso  | Stéphane Séne  |
-| ------------- |:-------------:| :-----:| :-----|
+| ------------- |:-------------| :-----| :-----|
 | Installation logiciels sous Raspbian | Installation logiciels sous Raspbian | Installation logiciels sous Raspbian |  | 
 | Visualisation videos | Visualisation videos | Visualisation videos     | Visualisation videos |
 | Codage sous Python |    Codage sous Python |    Codage sous Python   |  |
