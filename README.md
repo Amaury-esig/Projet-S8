@@ -9,22 +9,22 @@ suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 
 
 
->Fonction implémenter et fonctionnel :  
+>**Fonction implémenter et fonctionnel :**  
   -Suivi de ligne                                     
   -Détection panneau stop
 
->Fonction en cour d'implémentation :  
+>**Fonction en cour d'implémentation :**  
   -Détection de feux
  
 
 
 
-|  Amaury Reille        | Léo Abalan           | Awa Bousso  | Stéphane Séne  |
+|  **Amaury Reille**        | **Léo Abalan**           | **Awa Bousso**  | **Stéphane Séne**  |
 | ------------- |:-------------:| :-----:| -----:|
-| code bas niveau      | Support camera | Support camera |     |
-| cartes EAGLE      | panneau stop      |   panneau stop |     |
-| alimentation externe | boitier feux      |    boitier feux |     |
-| python et OpenCV      |   python et OpenCV    |  python et OpenCV  |     |
+| Code bas niveau      | Support camera | Support camera |     |
+| Cartes EAGLE      | Panneau stop      |   Panneau stop |     |
+| Alimentation externe | Boitier feux      |    Boitier feux |     |
+| Python et OpenCV      |   Python et OpenCV    |  Python et OpenCV  |     |
 | Comunication I²C       |       |    |     |
   
   
@@ -32,7 +32,7 @@ suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
   
 >Vidéo en streaming
 
-|  Amaury Reille        | Léo Abalan           | Awa Bousso  | Stéphane Séne  |
+|  **Amaury Reille**        | **Léo Abalan**           | **Awa Bousso**  | ***Stéphane Séne**  |
 | :------------- |:-------------| :-----| :-----|
 | Installation logiciels sous Raspbian | Installation logiciels sous Raspbian | Installation logiciels sous Raspbian |  | 
 | Visualisation videos | Visualisation videos | Visualisation videos     | Visualisation videos |
