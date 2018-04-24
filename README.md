@@ -46,6 +46,8 @@ Awa Bousso          OpenCV
 
 |  Amaury Reille        | Léo Abalan           | Awa Bousso  |
 | ------------- |:-------------:| -----:|
-| code bas niveau      | right-aligned | $1600 |
-| cartes EAGLE      | centered      |   $12 |
-| limentation externe | are neat      |    $1 |
+| code bas niveau      | Support camera | Support camera |
+| cartes EAGLE      | panneau stop      |   panneau stop |
+| alimentation externe | boitier feux      |    boitier feux |
+| Comunication I²C      |       |    |
+| python et OpenCV      |       |    |
