@@ -15,22 +15,22 @@ Fonction implémenter et fonctionnel : Suivi de ligne
 
 
 
->Amaury Reille       code bas niveau (arduino)
->                    cartes EAGLE                 
->                    alimentation externe
->                    feux bicolore                    
->                    Comunication I²C                    
->                    python et OpenCV
+Amaury Reille       code bas niveau (arduino)
+                    cartes EAGLE                 
+                    alimentation externe
+                    feux bicolore                    
+                    Comunication I²C                    
+                    python et OpenCV
                     
 
->Léo Abalan          OpenCV                    
->                    Support camera                    
->                    panneau stop                    
->                    boitier feux
+Léo Abalan          OpenCV                    
+                    Support camera                    
+                    panneau stop                    
+                    boitier feux
                     
->Awa Bousso          OpenCV                    
->                    Support camera                    
->                    panneau stop                    
->                    boitier feux
+Awa Bousso          OpenCV                    
+                    Support camera                    
+                    panneau stop                    
+                    boitier feux
 
 
