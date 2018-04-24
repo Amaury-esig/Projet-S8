@@ -3,7 +3,7 @@
 # ESIGELEC 2018
 
 
-# voiture autonome suiveuse de ligne
+## voiture autonome suiveuse de ligne
 
 suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 
@@ -16,7 +16,7 @@ Fonction implémenter et fonctionnel : Suivi de ligne
 
 
 
-Amaury Reille    => code bas niveau (arduino)
+>Amaury Reille     code bas niveau (arduino)
 
                     cartes EAGLE
                     
@@ -29,7 +29,7 @@ Amaury Reille    => code bas niveau (arduino)
                     python et OpenCV
                     
 
-Léo Abalan       => OpenCV
+>Léo Abalan        OpenCV
                     
                     Support camera
                     
@@ -37,7 +37,7 @@ Léo Abalan       => OpenCV
                     
                     boitier feux
 
-Awa Bousso       => OpenCV
+>Awa Bousso         OpenCV
                     
                     Support camera
                     
