@@ -9,40 +9,28 @@ suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 
 
 
-Fonction implémenter et fonctionnel : Suivi de ligne
-                                     
+Fonction implémenter et fonctionnel : Suivi de ligne                                     
                                      Détection panneau stop
 
 
 
 
 >Amaury Reille     code bas niveau (arduino)
-
-                    cartes EAGLE
-                    
+                    cartes EAGLE                 
                     alimentation externe
-                    
-                    feux bicolore
-                    
-                    Comunication I²C
-                    
+                    feux bicolore                    
+                    Comunication I²C                    
                     python et OpenCV
                     
 
->Léo Abalan        OpenCV
-                    
-                    Support camera
-                    
-                    panneau stop
-                    
+>Léo Abalan        OpenCV                    
+                    Support camera                    
+                    panneau stop                    
                     boitier feux
-
->Awa Bousso         OpenCV
                     
-                    Support camera
-                    
-                    panneau stop
-                    
+>Awa Bousso         OpenCV                    
+                    Support camera                    
+                    panneau stop                    
                     boitier feux
 
 
