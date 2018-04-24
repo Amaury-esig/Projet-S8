@@ -36,7 +36,7 @@ Awa Bousso          OpenCV
 
 
 | Amaury Reille         |     Léo Abalan         |   Awa Bousso         |  
-| --------------------- |: --------------------: | -------------------: |  
+| ---------------- |: ---------------: | --------------: |  
 | code bas niveau       |        OpenCV          |      OpenCV          |  
 | cartes EAGLE          |        Support camera  |      Support camera  |  
 | alimentation externe  |        panneau stop    |      panneau stop    |  
