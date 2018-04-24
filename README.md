@@ -26,11 +26,10 @@ suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 | alimentation externe | boitier feux      |    boitier feux |     |
 | Comunication I²C      |       |    |     |
 | python et OpenCV      |       |    |     |
-
-
-
-
-
+  
+  
+  
+  
 >Vidéo en streaming
 
 |  Amaury Reille        | Léo Abalan           | Awa Bousso  | Stéphane Séne  |
