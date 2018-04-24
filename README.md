@@ -7,7 +7,7 @@
 
 suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 
-
+-------------------------------------------
 
 >**Fonction implémenter et fonctionnel :**  
   -Suivi de ligne *(quelques problèmes en fonction de la luminosité et de la charge de la batterie)*                              
@@ -16,7 +16,7 @@ suivi de ligne et détection de feux et panneau stop à l'aide d'une caméra
 >**Fonction en cour d'implémentation :**  
   -Détection de feux
  
-
+-----
 
 
 |  **Amaury Reille**        | **Léo Abalan**           | **Awa Bousso**  | **Stéphane Séne**  |
