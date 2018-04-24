@@ -16,7 +16,7 @@ Fonction implémenter et fonctionnel : Suivi de ligne
 
 
 >Amaury Reille       code bas niveau (arduino)  
->                    cartes EAGLE  
+>\                    cartes EAGLE  
                     alimentation externe  
                     feux bicolore  
                     Comunication I²C  
