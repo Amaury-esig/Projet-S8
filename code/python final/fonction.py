@@ -29,7 +29,7 @@ def feu(im_gray,flag, image):
     
     wF, hF = templateFeu.shape[::-1]
     resFeu =cv2.matchTemplate(im_gray, templateFeu ,cv2.TM_CCOEFF_NORMED)
-    thresholdFeu = 0.8
+    thresholdFeu = 0.6
     locFeu= np.where( resFeu >= thresholdFeu)
     if np.any( resFeu >= thresholdFeu):
         print("feu rouge")
