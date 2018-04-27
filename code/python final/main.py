@@ -95,7 +95,7 @@ for frame in camera.capture_continuous(rawCapture, format="bgr", use_video_port=
          bus.write_byte(adress,2)
          time.sleep(3)
          bus.write_byte(adress,1)
-        time.sleep(0.1)
+         time.sleep(0.1)
     
 
 
