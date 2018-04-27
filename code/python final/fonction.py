@@ -132,10 +132,6 @@ def stop2(hsv2,flag, image):
 
          cv2.circle(hsv2,(cx2,cy2),15,(255,0, 0),5)
          print"stop"
-         bus.write_byte(adress,2)
-         time.sleep(0.1)
-         bus.write_byte(adress,1)
-         time.sleep(0.1)
          flag=1
 
     
